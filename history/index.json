@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "targets": [
+    {
+      "target": "uDWM",
+      "file": "uDWM.dll",
+      "index": "uDWM/index.json",
+      "latest": "4032428396-F46AF2556459B6632E59DF4C5A355AA6-1",
+      "build_count": 1
+    }
+  ]
+}

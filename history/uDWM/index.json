@@ -1,0 +1,19 @@
+{
+  "schema": 1,
+  "target": "uDWM.dll",
+  "latest": "4032428396-F46AF2556459B6632E59DF4C5A355AA6-1",
+  "builds": [
+    {
+      "key": "4032428396-F46AF2556459B6632E59DF4C5A355AA6-1",
+      "timestamp": "4032428396",
+      "pdb_guid": "F46AF2556459B6632E59DF4C5A355AA6",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/4032428396-F46AF2556459B6632E59DF4C5A355AA6-1/ir.json",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ]
+}
